@@ -16,6 +16,7 @@ Capslock::Esc
 ;!æ::]
 
 #IfWinActive, Path of Exile
+F2::SendInput {Enter}/remaining{Enter}
 F3::SendInput {Enter}/itemlevel{Enter}
 F4::SendInput {Enter}/oos{Enter}
 #IfWinActive
